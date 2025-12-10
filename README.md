@@ -1,1 +1,1 @@
-# freeseCodeCamp-rdb-alpha-repo.-
+# freeCodeCamp-rdb-alpha-repo.-
